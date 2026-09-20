@@ -1,2 +1,5 @@
 # Temporary files 
 temp.py 
+
+# vscode settings json file 
+.vscode
